@@ -19,8 +19,10 @@
   },
   "homepage": "https://github.com/sayali-borse/React-Project#readme",
   "dependencies": {
+    "@tailwindcss/vite": "^4.3.2",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
-    "mongoos": "^0.0.1-security"
+    "mongoos": "^0.0.1-security",
+    "tailwindcss": "^4.3.2"
   }
 }
